@@ -64,7 +64,7 @@
     "doc": "docs"
   },
   "devDependencies": {
-    "@types/args": "^3.0.0",
+    "@types/args": "^5.0.0",
     "@types/beautify": "0.0.0",
     "@types/rrdir": "^8.2.1",
     "@vercel/ncc": "^0.25.1",
